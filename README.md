@@ -1,118 +1,145 @@
-# Hi there 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Backend+%26+API+Designer;Clean+Code+Enthusiast)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:36BCF7,100:0d1117&height=200&section=header&text=Diarintsoa%20Natiora&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=twinkling" alt="Header" width="100%"/>
 
----
+<img src="./roles.svg" alt="Full Stack Developer | Java / Spring Boot Engineer | Backend & Database Architect | Problem Solver" width="100%"/>
 
-## 🌍 Welcome to my GitHub
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Diarintsoa-Natiora&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Diarintsoa-Natiora?style=social)
-![Stars](https://img.shields.io/github/stars/Diarintsoa-Natiora?style=social)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Clean+Architecture+%26+REST+APIs;PostgreSQL+%7C+PL%2FpgSQL+Performance;Custom+Java+MVC+Framework+Creator;Madagascar+%F0%9F%87%B2%F0%9F%87%AC" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## 🚀 About Me
+![Madagascar](https://img.shields.io/badge/Madagascar-🇲🇬-36BCF7?style=for-the-badge&labelColor=0d1117)
+![Role](https://img.shields.io/badge/Full%20Stack-Backend%20%26%20Architecture-36BCF7?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Diarintsoa-Natiora&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117)
 
-- 💻 Full Stack Developer (Java / Spring Boot / React)
-- ⚙️ Backend architecture & API design
-- 🌐 Passion for modern scalable web systems
-- 🎯 Focused on clean code and real-world projects
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
 
-## ⚡ Animated Skills
+## 👋 À propos de moi
 
-### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Salut ! Je suis **Diarintsoa Natiora**, développeur **Full Stack** basé à Madagascar 🇲🇬, avec une spécialisation en **Backend & Architecture logicielle**.
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🏛️ Passionné par la **Clean Architecture** et les bonnes pratiques de conception
+- 🔌 Conception d'**APIs REST** robustes, documentées et maintenables
+- 🐘 Optimisation et **performance des bases de données** (PL/pgSQL)
+- ⚙️ Fasciné par le **fonctionnement interne des frameworks** : j'ai créé mon propre **framework Java MVC** from-scratch
+- 🌱 Toujours en apprentissage : architecture, DevOps et systèmes distribués
 
-### 🔥 Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-## 📊 GitHub Stats (Live Animation)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,postgres,docker,js,vue,react,tailwind,bootstrap,git,vscode&perline=6" alt="Tech Stack Icons" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diarintsoa-Natiora&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diarintsoa-Natiora&layout=compact&theme=tokyonight&hide_border=true)
+| Catégorie | Technologies |
+|:--|:--|
+| **Langages** | Java, PHP, JavaScript, HTML5, CSS3 |
+| **Backend** | Spring Boot, CodeIgniter 4, Node.js, REST APIs |
+| **Frontend** | Vue.js, React, Tailwind CSS, Bootstrap |
+| **Bases de données** | PostgreSQL, MySQL, SQLite, Firebase |
+| **DevOps & Outils** | Docker, Git, Swagger |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
 
-## 🔥 Contribution Activity (Animated)
+## 🚀 Projets Phares
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diarintsoa-Natiora&theme=react-dark)
+| Projet | Stack | Description |
+|:--|:--|:--|
+| **Enterprise Management System** | `Java` `Spring Boot` `PostgreSQL` | Plateforme de gestion d'entreprise : RH, inventaire et suivi financier. |
+| **Market Management Platform** | `PHP` `CodeIgniter` `MySQL` `Bootstrap` | Gestion des marchés, des emplacements et des paiements. |
+| **Cinema Booking System** | `Java` `Spring Boot` `Vue.js` `PostgreSQL` | Réservation de billets et gestion de planning. |
+| **Data Clustering Engine** | `Java` `PostgreSQL` `Chart.js` | Analyse de données avec algorithmes de clustering. |
+| **Custom Java MVC Framework** | `Java` `Reflection API` `HTTP` | Framework MVC personnalisé conçu from-scratch. |
 
----
+<details>
+<summary><b>🔍 Zoom sur le Custom Java MVC Framework (cliquez pour déplier)</b></summary>
 
-## 🐍 Snake Eating Contributions
+<br/>
 
-![Snake animation](https://github.com/Diarintsoa-Natiora/Diarintsoa-Natiora/blob/output/github-contribution-grid-snake.svg)
+Un framework web conçu de zéro pour comprendre et maîtriser ce qui se passe « sous le capot » des frameworks modernes comme Spring.
 
----
+**🏷️ Annotations**
+Des annotations personnalisées (contrôleurs, routes, paramètres) décrivent le comportement de l'application de manière déclarative, lues dynamiquement via la **Reflection API**.
 
-## 🎯 Featured Projects
+**💉 IoC (Inversion of Control)**
+Le framework instancie et gère lui-même les composants. Les dépendances sont résolues et injectées automatiquement, ce qui réduit le couplage entre les classes.
 
-### 🏢 Enterprise Management System
-Business system with employees, inventory, and finance modules.
+**🧭 Routage**
+Un dispatcher central intercepte les requêtes HTTP, les associe aux méthodes de contrôleur annotées, puis convertit les paramètres de requête vers les types attendus.
 
-### 🛒 Market Management Platform
-System for managing markets, payments, and operations.
+**🏗️ MVC**
+Séparation claire des responsabilités :
+- **Model** : logique métier et accès aux données
+- **View** : rendu de la réponse (pages, JSON)
+- **Controller** : orchestration entre les requêtes et les modèles
 
-### 🎬 Cinema Management Application
-Movie booking, scheduling, and customer management system.
+```text
+Requête HTTP → Front Controller → Routage (annotations) → Contrôleur → Modèle
+                                                              ↓
+                                          Réponse ← Vue ← ModelAndView
+```
 
-### 📊 Data Clustering Project
-Data analysis project using clustering algorithms.
+</details>
 
-### ⚙️ Custom Java Framework (Spring Boot-like)
-A lightweight Java framework with:
-- Annotation system  
-- Dependency Injection  
-- Routing engine  
-- MVC structure  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
 
----
+## 📊 Niveaux de Compétences
 
-## 🧭 Current Goals
+<div align="center">
 
-![Progress](https://progress-bar.dev/70/?title=Backend%20Mastery)
-![Progress](https://progress-bar.dev/55/?title=Cloud%20Learning)
-![Progress](https://progress-bar.dev/80/?title=Full%20Stack%20Projects)
+![Backend Mastery](https://img.shields.io/badge/Backend%20Mastery-85%25-36BCF7?style=for-the-badge&logo=spring&logoColor=white&labelColor=0d1117)
+![System Architecture](https://img.shields.io/badge/System%20Architecture-80%25-3b82f6?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0d1117)
+![Database Design](https://img.shields.io/badge/Database%20Design-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![Cloud / DevOps](https://img.shields.io/badge/Cloud%20%2F%20DevOps-65%25-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
 
-- 🚀 Build production-ready applications  
-- ☁️ Learn deployment & cloud systems  
-- ⚙️ Improve system design skills  
-- 🌍 Contribute to open source  
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
 
-## 📫 Contact
+## 📈 Statistiques GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Diarintsoa-Natiora)
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Diarintsoa-Natiora&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diarintsoa-Natiora&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 
-## ⚡ Quote
+<br/><br/>
 
-> "Code is not just syntax, it's architecture and thinking."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diarintsoa-Natiora&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
 
----
+</div>
 
-## 🎉 Thanks for visiting!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+## 📫 Me Contacter
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/VOTRE-PROFIL/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:votre.email@exemple.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Diarintsoa-Natiora">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+*💡 « Un bon code est comme une bonne architecture : on ne le remarque que lorsqu'il est absent. »*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:36BCF7,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
+
+</div>
